@@ -1,0 +1,32 @@
+#corps{
+	height:700px;
+	border: solid 1px grey;
+	border-radius:2px 15px 2px 15px;
+	box-shadow:1px 1px 12px #555;
+}
+#contentFiche{
+	height: 690px;
+	overflow: auto;
+	border-left:solid 1px gray;
+}
+#treeview{
+	height:589px;
+	overflow: auto;
+	margin-top: 5px;
+}
+.title{
+	text-align: center;
+	font-size: 14px;
+ }
+#btnAdd{
+	margin-bottom: 5px;
+}
+p{
+	font-size: 13px;
+	text-align: center;
+	color: red;
+}
+.table-head{
+	background-color: #555;
+	color: white;
+}
